@@ -124,15 +124,15 @@ button a {
   }
 
   #container {
-    width: 300px;
+    width: 80vw;
   }
 
   .head img {
-    width: 300px;
+    width: 80vw;
   }
 
   .plan {
-    width: 250px;
+    width: 70vw;
   }
 
   .div1 {
@@ -140,6 +140,6 @@ button a {
   }
 
   button {
-    width: 250px;
+    width: 70vw;
   }
 }
