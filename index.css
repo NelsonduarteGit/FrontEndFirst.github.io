@@ -92,9 +92,11 @@ button {
   margin: 15px;
   margin-top: -5px;
 }
+
 button:hover {
   cursor: pointer;
 }
+
 button a {
   color: white;
   font-weight: 700;
@@ -108,3 +110,9 @@ button a {
   opacity: 70%;
   font-size: 13px;
 }
+
+@media (max-width: 500px) {
+  body {
+    width: 375px;
+  }
+} ;
