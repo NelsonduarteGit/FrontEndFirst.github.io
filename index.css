@@ -115,4 +115,31 @@ button a {
   body {
     width: 375px;
   }
-} ;
+}
+
+@media (max-width: 376px) {
+  body {
+    width: 100vw;
+    margin: 0;
+  }
+
+  #container {
+    width: 300px;
+  }
+
+  .head img {
+    width: 300px;
+  }
+
+  .plan {
+    width: 250px;
+  }
+
+  .div1 {
+    margin-left: 0px;
+  }
+
+  button {
+    width: 250px;
+  }
+}
