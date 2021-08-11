@@ -131,6 +131,10 @@ button a {
     width: 80vw;
   }
 
+  .text p {
+    width: 70vw;
+  }
+
   .plan {
     width: 70vw;
   }
